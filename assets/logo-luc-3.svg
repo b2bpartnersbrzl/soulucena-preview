@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264.79 82.59">
   <defs>
     <style>
+      text, path, polygon { fill: #b6ff00; }
       .cls-1 {
         letter-spacing: -.01em;
       }
